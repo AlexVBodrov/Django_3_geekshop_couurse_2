@@ -1,0 +1,2 @@
+https://github.com/AlexVBodrov/Django_3_geekshop_couurse_2
+первое задание попытался зделать на отличающемся проекте так как я с другой группы
