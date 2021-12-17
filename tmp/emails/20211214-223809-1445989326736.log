@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0JTQu9GPINCw0LrRgtC40LLQsNGG0LjQuCDRg9GH0LXRgtC90L7QuSDQt9Cw0L8=?=
+ =?utf-8?b?0LjRgdC4IG5ldzIg0L/RgNC+0LnQtNC40YLQtSDQv9C+INGB0YHRi9C70LrQtQ==?=
+From: webmaster@localhost
+To: new2@mail.ru
+Date: Tue, 14 Dec 2021 19:38:09 -0000
+Message-ID: <163951068902.8476.3204350166726588174@DESKTOP-73GCS97>
+
+Для подтверждения учетной записи new2 на портале http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/users/verify/new2@mail.ru/cddccca1ed430af30cea83d64e7ca8c77aa19fea/ 
+-------------------------------------------------------------------------------
